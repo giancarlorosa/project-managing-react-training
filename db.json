@@ -7,8 +7,21 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 100,
+      "services": [
+        {
+          "name": "Serviço 02",
+          "cost": "50",
+          "description": "Descrição do Serviço 02",
+          "id": "8a3847f0-0ce8-435c-a48e-c2ca44ac8175"
+        },
+        {
+          "name": "Serviço 03",
+          "cost": "50",
+          "description": "Descrição do Serviço 03",
+          "id": "033dd419-b38e-4a63-9cec-19860b533e69"
+        }
+      ],
       "id": 1
     },
     {
