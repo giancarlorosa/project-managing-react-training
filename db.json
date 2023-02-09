@@ -1,48 +1,37 @@
 {
   "projects": [
     {
-      "name": "teste",
-      "budget": "123",
+      "name": "Treinamento React",
+      "budget": "1500",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
       "id": 1
     },
     {
-      "name": "teste",
+      "name": "Drupal Training",
+      "budget": "3000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
-      "budget": "123",
       "cost": 0,
       "services": [],
       "id": 2
     },
     {
-      "name": "teste",
-      "budget": "123",
+      "name": "Meeting de Daily",
+      "budget": "500",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
       "id": 3
-    },
-    {
-      "name": "teste",
-      "budget": "123",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
     }
   ],
   "categories": [
